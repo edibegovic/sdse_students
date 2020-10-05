@@ -3,3 +3,6 @@ bin/
 ~*
 .metadata/
 desktop.ini
+.idea/
+.DS_Store
+*.iml
